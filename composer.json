@@ -1,0 +1,10 @@
+{
+    "name": "tecnosoluciones/sistema-gestion",
+    "description": "Sistema de Gestion de Proyectos - TecnoSoluciones S.A.",
+    "type": "project",
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    },
+    "minimum-stability": "stable",
+    "license": "MIT"
+}
