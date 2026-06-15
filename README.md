@@ -45,19 +45,19 @@ El sistema fue desarrollado en un entorno de servidor configurado manualmente co
 ## Capturas del sistema
 
 ### Login
-![Login](screenshots/login.jpeg)
+![Login](screenshots/login.jpg)
 
 ### Menù
-![Menu](screenshots/menu.jpeg)
+![Menu](screenshots/menu.jpg)
 
 ### Lista de registros
-![Lista](screenshots/lista.jpeg)
+![Lista](screenshots/lista.jpg)
 
 ### Crear registro
-![Crear](screenshots/crear.jpeg)
+![Crear](screenshots/crear.jpg)
 
 ### Editar registro
-![Editar](screenshots/editar.jpeg)
+![Editar](screenshots/editar.jpg)
 
 
 
