@@ -42,3 +42,22 @@ El sistema fue desarrollado en un entorno de servidor configurado manualmente co
 * Implementación de operaciones CRUD.
 * Estructuración básica de una aplicación web.
 
+## Capturas del sistema
+
+### Login
+![Login](screenshots/login.jpeg)
+
+### Menù
+![Menu](screenshots/menu.jpeg)
+
+### Lista de registros
+![Lista](screenshots/lista.jpeg)
+
+### Crear registro
+![Crear](screenshots/crear.jpeg)
+
+### Editar registro
+![Editar](screenshots/editar.jpeg)
+
+
+
